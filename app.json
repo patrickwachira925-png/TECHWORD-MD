@@ -1,9 +1,9 @@
 {
   "name": "techword-md",
   "description": "techword, your friendly assistant bot with nodejs!",
-  "logo": "https://h.uguu.se/GiYWpWoC.jpg",
+  "logo": "https://files.catbox.moe/8y619f.jpg",
   "keywords": [],
-  "repository": "https://github.com/Courtney250/TECHWORD-V1-",
+  "repository": "https://github.com/Courtney250/TECHWORD-MD",
   "stack": "container",
   "addons": [
     {
@@ -15,7 +15,7 @@
   },
 "env": {
   "SESSION_ID": {
-    "description": "Must begin with 'dave-AI:~'.",
+    "description": "Must begin with 'TECHWORLD:~'.",
     "value": "",
     "required": true
   }
