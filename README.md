@@ -15,6 +15,13 @@ Advanced WhatsApp bot with premium features.
   </a>
 </div>
 
+### 1. Get Pair Code 2
+<div align="center">
+  <a href="Https://techworld-md.courtneytech.xyz">
+    <img src="https://img.shields.io/badge/Get Pair Code-blue?style=for-the-badge&logo=whatsapp" alt="Pair Code"/>
+  </a>
+</div>
+
 ### 2. Fork Repository
 <div align="center">
   <a href="https://github.com/Courtney250/TECHWORD-V1-/fork">
