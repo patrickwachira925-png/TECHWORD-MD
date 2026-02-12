@@ -8,7 +8,7 @@ Advanced WhatsApp bot with premium features.
 
 ## Quick Start
 
-### 1. Get Pair Code
+### 1. Get Pair Code 1
 <div align="center">
   <a href="https://techword-bot-pair-ey42.onrender.com/pair">
     <img src="https://img.shields.io/badge/Get Pair Code-blue?style=for-the-badge&logo=whatsapp" alt="Pair Code"/>
@@ -18,7 +18,7 @@ Advanced WhatsApp bot with premium features.
 ### 1. Get Pair Code 2
 <div align="center">
   <a href="Https://techworld-md.courtneytech.xyz">
-    <img src="https://img.shields.io/badge/Get Pair Code-blue?style=for-the-badge&logo=whatsapp" alt="Pair Code"/>
+    <img src="https://img.shields.io/badge/Get Pair Code-green?style=for-the-badge&logo=whatsapp" alt="Pair Code"/>
   </a>
 </div>
 
